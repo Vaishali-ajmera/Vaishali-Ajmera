@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="auto" />
   <h1>Hi, I'm Vaishali! 👋</h1>
-  <h3>Full Stack Developer | Curious Learner | Tech Enthusiast</h3>
+  <h3>Full Stack Developer | Python & Django Developer | DevOps Enthusiast</h3>
 </div>
 
 ---
 
 ### 💬 About Me
-I'm a **Full Stack Developer** with a passion for building scalable and user-friendly applications. I'm always curious to learn and understand everything about technology, and I'm excited to dive deeper into the tech world. My journey is all about exploring new tools, frameworks, and solving real-world problems through code.
+I'm a **Full Stack Developer** with expertise in building scalable and user-friendly applications. I specialize in **Python, Django, and the MERN stack**, and I'm also exploring the world of **DevOps** to enhance my skills in deployment and infrastructure management. I’m passionate about solving real-world problems through code and continuously improving my craft.
 
 ---
 
@@ -23,10 +23,12 @@ Here are the technologies I work with:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🏆 LeetCode Stats
+### � LeetCode Stats
 I love solving problems and improving my coding skills. Here's my LeetCode progress:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Vaishali_Ajmera?theme=light&font=Roboto)
@@ -36,11 +38,11 @@ I love solving problems and improving my coding skills. Here's my LeetCode progr
 ### 🚀 Projects
 Here are some of the projects I’ve worked on:
 
-- **[Safar Sathi](https://github.com/yourusername/safar-sathi)**  
+- **[Safar Sathi](https://github.com/Vaishali-ajmera/Safar-Sathi)**  
   ![GitHub Stars](https://img.shields.io/github/stars/yourusername/safar-sathi?style=social)  
   A travel companion app to help users plan their trips efficiently.
 
-- **[Chatter Talkie](https://github.com/yourusername/chatter-talkie)**  
+- **[Chatter Talkie](https://github.com/Vaishali-ajmera/Chatter-Talkie)**  
   ![GitHub Stars](https://img.shields.io/github/stars/yourusername/chatter-talkie?style=social)  
   A real-time chat application built with React and Node.js.
 
@@ -64,7 +66,7 @@ Let’s connect and collaborate! You can find me here:
 ---
 
 ### 💡 Quote
-> "The only way to do great work is to love what you do. As a girl developer, I’m here to break barriers, learn, and create something meaningful in the tech world."
+> "The only way to do great work is to love what you do. As a developer, I’m here to build solutions that make a difference."
 
 ---
 
